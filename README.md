@@ -15,6 +15,7 @@ Formülü uyguluyor:
 
 Sharpe = (Getiri - Risksiz) / StandartSapma
 
+<img width="368" height="105" alt="image" src="https://github.com/user-attachments/assets/2bc7996b-f58b-4f4c-85f0-deea7a81ebbd" />
 
 Böylece risk başına kazancı buluyor.
 
